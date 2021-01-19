@@ -1,2 +1,2 @@
 # face_occlusion_dettection
-People mot wearing masks
+People not wearing masks
